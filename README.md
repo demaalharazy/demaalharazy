@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![](<img width="1162" height="1126" alt="IMG_4940" src="https://github.com/user-attachments/assets/01e3317a-6cc9-43ab-bde1-75528fdab4d8" />
+)
 <!--
 **demaalharazy/demaalharazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
