@@ -1,5 +1,4 @@
 ## Hi there 👋
-![describtiioon](https://i.pinimg.com/1200x/73/c4/6c/73c46c1086e7c400e207fd50e6d07a84.jpg)
 <!--
 **demaalharazy/demaalharazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
